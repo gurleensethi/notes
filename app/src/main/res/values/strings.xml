@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username_password_wrong">Username or Password is wrong</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="create_account">Create Account</string>
+    <string name="user_already_exists">Account with username already exists</string>
+    <string name="account_created_successfully">Account created successfully</string>
+    <string name="notes">Notes</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete</string>
+    <string name="title">Title</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_note">Enter Note</string>
+    <string name="save">Save</string>
+    <string name="title_empty">Title cannot be empty</string>
+    <string name="note_empty">Note cannot be empty</string>
+    <string name="you_dont_have_notes">Sad! You don\'t have any notes\nClick + to add new note</string>
+    <string name="update">Update</string>
+    <string name="string_continue">Continue</string>
+</resources>
